@@ -17,6 +17,8 @@ While there was some element of luck involved in surviving, it seems some groups
 In this competition, we need to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data.
 
 
+**Data Dictionary**
+
 |Variable|	Definition|	Key|
 |--------|---------|---------|
 |survival|Survival|	0 = No, 1 = Yes|
