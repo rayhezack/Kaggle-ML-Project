@@ -2,6 +2,10 @@
 
 Titanic is a competition held by Kaggle. I joined this competition mainly for improving my machine learning skills.
 
+I got top 5% in the competition. Exactly I rank at 746 out of 14332 teams. 
+
+Here's my kernel address of Kaglle: https://www.kaggle.com/raysun91/0-794-top-5-using-logistic-regression
+
 
 **The Background of the Competition**
 
